@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/langexchange/.github/main/images/logo.9d97ecdc029d2db586b3.png" alt="Logo" height="80">
+  <img src="https://github.com/Lang-Exchange/.github/blob/main/assets/logo.9d97ecdc029d2db586b3.png" alt="Logo" height="80">
 </div>
 
 
@@ -49,7 +49,7 @@ We are also considering an enhanced recommendation system that can suggest frien
 
 ## 4. Architecture
 
-![image](https://github.com/langexchange/.github/blob/main/images/architecture.png)
+![image](https://github.com/Lang-Exchange/.github/blob/main/assets/architecture.png)
 
 
 ## 5. Tech stack
