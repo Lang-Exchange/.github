@@ -11,13 +11,11 @@
 
 # LangExchange - Learning language community
 
-LangExchange is a community application that helps everyone can connect together to talk, share, study… and improve their language skill. 
-
 ## 1. About this project
-It serves as a culmination of our studies, applying the knowledge and skills we acquired throughout our academic journey. By completing this thesis, we hope to contribute to the advancement of knowledge in the software engineering world while also demonstrating our ability to apply theoretical concepts to real-world scenarios. We are grateful for the guidance and support provided by our university, especially Mrs. Thu during the course of this project.
+LangExchange is a community application that helps everyone can connect together to talk, share, study… and improve their language skill.
 
 ## 2. Developer team and their roles in this project
-- Nguyen Van Thuong: Frontend developer.
+- Nguyen Van Thuong: Fullstack developer.
 - Nguyen Tan Xanh: Backend developer.
 
 ## 3. Features
